@@ -1,0 +1,8 @@
+.status-bar{
+    display: flex;
+    justify-content: space-between;
+}
+
+.status-bar__lock{
+    margin-right: 3px;
+}

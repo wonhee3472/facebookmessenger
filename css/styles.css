@@ -1,0 +1,9 @@
+@import "chat.css";
+@import "reset.css";
+
+body {
+    background-color: white;
+    padding: 10px 10px;
+    font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI",
+      Roboto, Oxygen, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+}
